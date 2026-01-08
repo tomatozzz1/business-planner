@@ -172,36 +172,36 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Dashboard
 
-![Dashboard](images\bp-dashboard.png)
+![Dashboard](images/bp-dashboard.png)
 
 ### Calendar
 
-![Calendar](images\bp-calendar.png)
+![Calendar](images/bp-calendar.png)
 
 ### Weekly Planner
 
-![Weekly Planner](images\bp-weeklyPlanner.png)
+![Weekly Planner](images/bp-weeklyPlanner.png)
 
 ### Goals
 
-![Goals](images\bp-goals.png)
+![Goals](images/bp-goals.png)
 
 ### Tasks
 
-![Tasks](images\bp-tasks.png)
+![Tasks](images/bp-tasks.png)
 
 ### Notes
 
-![Notes](images\bp-notes.png)
+![Notes](images/bp-notes.png)
 
 ### Contacts
 
-![Contacts](images\bp-contacts.png)
+![Contacts](images/bp-contacts.png)
 
 ### Progress
 
-![Progress](images\bp-progress.png)
+![Progress](images/bp-progress.png)
 
 ### Settings
 
-![Settings](images\bp-settings.png)
+![Settings](images/bp-settings.png)
