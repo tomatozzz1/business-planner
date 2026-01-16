@@ -59,7 +59,7 @@ A comprehensive productivity and business management application built with Reac
 - Category organization (clients, colleagues, vendors, etc.)
 - Quick access to email and phone
 
-### 📈 Progress & Analytics
+### Progress & Analytics
 
 - Weekly activity charts
 - Task completion statistics
@@ -67,14 +67,14 @@ A comprehensive productivity and business management application built with Reac
 - Productivity score calculation
 - Visual data representations with Recharts
 
-### ⚙️ Settings
+### Settings
 
 - Customizable branding (logo, company name, slogan)
 - Theme customization with color presets
 - Date and time format preferences
 - Week start day configuration
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend Framework:** React 18.2
 - **Build Tool:** Vite 5.0
@@ -88,7 +88,7 @@ A comprehensive productivity and business management application built with Reac
 - **Date Handling:** date-fns
 - **Markdown:** react-markdown
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
