@@ -8,42 +8,42 @@ A comprehensive productivity and business management application built with Reac
 
 ## Features
 
-### 📊 Dashboard
+### Dashboard
 
 - Quick overview of your day with task and event summaries
 - Real-time statistics and progress tracking
 - Priority task matrix (Eisenhower Matrix)
 - Visual progress indicators for goals
 
-### 📅 Calendar
+### Calendar
 
 - Monthly calendar view with event management
 - Color-coded events by type (meetings, deadlines, reminders, etc.)
 - Quick event creation and editing
 - Responsive design for all devices
 
-### 🗓️ Weekly Planner
+### Weekly Planner
 
 - Week-at-a-glance view
 - Drag-and-drop task organization
 - Daily task and event summaries
 - Productivity metrics
 
-### 🎯 Goals & Objectives
+### Goals & Objectives
 
 - Track personal, professional, and project goals
 - Milestone-based progress tracking
 - Visual progress bars
 - Category-based organization
 
-### ✅ Task Management
+### Task Management
 
 - Eisenhower Matrix prioritization (Urgent/Important)
 - Task filtering by status and priority
 - Due dates and time tracking
 - Category tagging
 
-### 📝 Notes
+### Notes
 
 - Markdown support for rich text formatting
 - Tag-based organization
@@ -51,7 +51,7 @@ A comprehensive productivity and business management application built with Reac
 - Color-coded note cards
 - Search functionality
 
-### 👥 Contacts
+### Contacts
 
 - Comprehensive contact management
 - Company and position tracking
@@ -139,69 +139,40 @@ npm run dev
 
 The application will be available at `http://localhost:5173`
 
-## 📱 Responsive Design
+## Screenshots
 
-The application is fully responsive and works seamlessly on:
-
-- Desktop computers
-- Tablets
-- Mobile phones
-
-## 🔒 Security
-
-- Environment variables for sensitive data
-- Supabase Row Level Security (RLS) ready
-- Client-side validation
-- Secure API communication
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📸 Screenshots
-
-### Dashboard
+### Dashboard Screenshot
 
 ![Dashboard](images/bp-dashboard.png)
 
-### Calendar
+### Calendar Screenshot
 
 ![Calendar](images/bp-calendar.png)
 
-### Weekly Planner
+### Weekly Planner Screenshot
 
 ![Weekly Planner](images/bp-weeklyPlanner.png)
 
-### Goals
+### Goals Screenshot
 
 ![Goals](images/bp-goals.png)
 
-### Tasks
+### Tasks Screenshot
 
 ![Tasks](images/bp-tasks.png)
 
-### Notes
+### Notes Screenshot
 
 ![Notes](images/bp-notes.png)
 
-### Contacts
+### Contacts Screenshot
 
 ![Contacts](images/bp-contacts.png)
 
-### Progress
+### Progress Screenshot
 
 ![Progress](images/bp-progress.png)
 
-### Settings
+### Settings Screenshot
 
 ![Settings](images/bp-settings.png)
